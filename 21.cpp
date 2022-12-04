@@ -1,8 +1,6 @@
 #include<iostream>
 using namespace std;
 #include<algorithm>
-// gà quá nha
-// nonnn
 // 21. Merge Two Sorted Lists
 int main(){
     int m,n,i,k=0;
@@ -29,7 +27,7 @@ int main(){
     for(int i=0;i<n;i++){
         cout<<b[i];
     }
-    
+
 }
     
 
