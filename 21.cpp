@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 #include<algorithm>
-// gà
+// gà quá nha
 // nonnn
 // 21. Merge Two Sorted Lists
 int main(){
