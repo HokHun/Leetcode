@@ -19,6 +19,6 @@ int  main(){
         }
     }
     cout<<count1<<"\t";
-    count2=n-count1*2;
+    count2=n-count1*2; 
     cout<<count2;
 }
