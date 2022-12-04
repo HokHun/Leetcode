@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 #include<algorithm>
+// haha non
 int loop(int a[], int n){
     sort(a,a+n);
     int count=0;

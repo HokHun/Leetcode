@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-#include<algorithm>
+#include<algorithm>\
+// ga qua nha
 // 21. Merge Two Sorted Lists
 int main(){
     int m,n,i,k=0;
